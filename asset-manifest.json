@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Trip-Website/static/css/main.a6bb8b95.css",
+    "main.js": "/Trip-Website/static/js/main.08867a6e.js",
+    "static/media/image (1).jpg": "/Trip-Website/static/media/image (1).2a0f0b4af14c52b169d5.jpg",
+    "static/media/video.mp4": "/Trip-Website/static/media/video.578ec8506c039a7b7530.mp4",
+    "static/media/background.jpg": "/Trip-Website/static/media/background.93fe063b2e9dbcf494d0.jpg",
+    "static/media/image (12).jpg": "/Trip-Website/static/media/image (12).ea0655b27e3ef13a7dbe.jpg",
+    "static/media/image (3).jpeg": "/Trip-Website/static/media/image (3).eef856b3454852dd9adb.jpeg",
+    "static/media/image (4).jpeg": "/Trip-Website/static/media/image (4).0a7306f91c78d33d207c.jpeg",
+    "static/media/image (6).jpeg": "/Trip-Website/static/media/image (6).f8b0b0abbc99eebdfefa.jpeg",
+    "static/media/image (17).jpeg": "/Trip-Website/static/media/image (17).152a28c8780ef906bf39.jpeg",
+    "static/media/image (20).jpeg": "/Trip-Website/static/media/image (20).44194a0ded4161d1bf44.jpeg",
+    "static/media/image (19).jpeg": "/Trip-Website/static/media/image (19).9a3289e5fc7a1842c9f3.jpeg",
+    "static/media/image (7).jpeg": "/Trip-Website/static/media/image (7).a932414054d356829a7e.jpeg",
+    "static/media/image (8).jpeg": "/Trip-Website/static/media/image (8).3d2648adcfd4ec78cddb.jpeg",
+    "static/media/image (5).jpeg": "/Trip-Website/static/media/image (5).44255d50af244d915314.jpeg",
+    "static/media/image (18).jpeg": "/Trip-Website/static/media/image (18).13c0a20b1a25e7a03f0c.jpeg",
+    "static/media/image (14).jpg": "/Trip-Website/static/media/image (14).6f1d961677202a1c03b2.jpg",
+    "index.html": "/Trip-Website/index.html",
+    "main.a6bb8b95.css.map": "/Trip-Website/static/css/main.a6bb8b95.css.map",
+    "main.08867a6e.js.map": "/Trip-Website/static/js/main.08867a6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6bb8b95.css",
+    "static/js/main.08867a6e.js"
+  ]
+}
