@@ -1,11 +1,6 @@
-import React, { useEffect } from 'react'
 import './Popular.css'
 import { FaArrowLeft,FaArrowRight } from "react-icons/fa6";
 import { BsDot } from "react-icons/bs";
-
-
-import Aos from 'aos';
-import 'aos/dist/aos.css';
 
 //image import
 
@@ -52,12 +47,8 @@ const Data = [
 
 const Popular = () => {
 
-  useEffect(() => {
-    Aos.init({ duration: 5000 })
-  }, []);
-
   return (
-    <section className='popular section container'>
+    <section className='popular section container' id='popular'>
       <div className="secContainer">
 
         <div className="secHeader flex">
@@ -81,6 +72,7 @@ const Popular = () => {
           {
             Data.map(({id,imagSrc,destTitle,location,grade})=>{
               return(
+                
                 <div className="singleDestination">
                     <div className="destImage">
 

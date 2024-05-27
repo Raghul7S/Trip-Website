@@ -46,23 +46,23 @@ window.addEventListener('scroll', addBg)
             <ul className="navLists flex">
 
                 <li className="navItem">
-                    <a href="#" className="navLink">Home</a>
+                    <a href="#home" className="navLink">Home</a>
                 </li>
                 
                 <li className="navItem">
-                    <a href="#" className="navLink">Products</a>
+                    <a href="#popular" className="navLink">Populars</a>
                 </li>
                 
                 <li className="navItem">
-                    <a href="#" className="navLink">Resources</a>
+                    <a href="#resources" className="navLink">Resources</a>
                 </li>
                 
                 <li className="navItem">
-                    <a href="#" className="navLink">Contact</a>
+                    <a href="#contact" className="navLink">Contact</a>
                 </li>
                 
                 <li className="navItem">
-                    <a href="#" className="navLink">Blog</a>
+                    <a href="#blog" className="navLink">Blog</a>
                 </li>
                 
                 <div className="headerBtns flex">

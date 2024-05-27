@@ -4,19 +4,19 @@ import './Home.css'; // Assuming your component is in a file named Home.css
 const Home = () => {
 
   return (
-    <section className='home'>
+    <section className='home' id='home'>
       <div className='secContainer container'>
         <div className="homeText">
 
-          <h1 data-aos="fade-up" data-aos-duration="2500" className="title" >
+          <h1 className="title" >
             Plan Your Trip With Travel GoAt
           </h1>
 
-          <p data-aos="fade-up" data-aos-duration="3000" className="subTitle">
+          <p className="subTitle">
             Travel to your favourite place with respectful of environment
           </p>
 
-          <button data-aos="fade-up" data-aos-duration="3500" className='btn'>
+          <button className='btn'>
             <a href="#">Explore Now</a>
           </button>
 

@@ -13,7 +13,7 @@ import video from '../../assets/video.mp4'
 
 const About = () => {
   return (
-    <section className='about section'>
+    <section className='about section' id='contact'>
 
       <div className="secContainer">
         <h2 className="title">

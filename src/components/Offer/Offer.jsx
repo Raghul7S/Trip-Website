@@ -41,7 +41,7 @@ const Offers = [
 
 const Offer = () => {
   return (
-    <section className='offer container setion'>
+    <section className='offer container setion' id='resources'>
       <div className="secContainer">
 
         <div className="secIntro">
